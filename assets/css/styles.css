@@ -9,3 +9,40 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+h2 {
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    font-size: 14px;
+    text-align: center;
+}
+
+.relogio {
+    display: flex;
+}
+
+.relogio div {
+    margin: 5px;
+}
+
+.relogio span {
+    width: 100px;
+    height: 80px;
+    background: #6a5acd;
+    opacity: .8;
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.relogio .texto {
+    height: 30px;
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    background: #00008b;
+    opacity: .8;
+}
