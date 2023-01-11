@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+
 body {
     margin: 0;
     display: flex;
@@ -8,6 +10,7 @@ body {
     background-image: url(https://images.unsplash.com/photo-1527489377706-5bf97e608852?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1259&q=80);
     background-repeat: no-repeat;
     background-size: cover;
+    font-family: 'Indie Flower', cursive;
 }
 
 h2 {
